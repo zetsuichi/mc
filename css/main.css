@@ -6,6 +6,10 @@ body {
     color: #99D8D0;
 }
 
+a {
+    color: #99D8D0;
+    text-decoration: none;
+}
 .container {
     width: 90%;
     height: 100%;
