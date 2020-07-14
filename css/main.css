@@ -73,3 +73,12 @@ h4 {
     color: #B7EFCD;
     margin-top: 3%;
 }
+
+.cmds {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    color: #B7EFCD;
+    margin-top: 3%;
+    width: 45%
+}
