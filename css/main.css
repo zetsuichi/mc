@@ -8,6 +8,7 @@ body {
 
 .container {
     width: 90%;
+    height: 100%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -18,9 +19,40 @@ body {
     text-align: center;
 }
 
+.buttons {
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    text-align: center;
+    width: 15%;
+    background-color: #99d8d057;
+}
+
+.btn:hover {
+    color: #B7EFCD;
+    transition: .5s;
+    cursor: pointer;
+}
+
 .ip {
     margin-top: 2%;
     margin-bottom: 2%;
     text-align: center;
+    margin-right: auto;
+    margin-left: auto;
     color: #B7EFCD;
+    clear: both;
+    background-color: #b7efcd67;
+    width: 46%;
+    height: 125px;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.info {
+  text-align: center;
 }
